@@ -1,0 +1,3 @@
+const clickDisplayAlert = () => {
+  alert("ECMAScript");
+};
